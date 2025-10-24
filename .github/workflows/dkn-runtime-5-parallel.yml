@@ -36,6 +36,9 @@ jobs:
       
       # Total runners (for API key splitting)
       TOTAL_RUNNERS: '5'
+        # Telegram Configuration (HARDCODED - NOT RECOMMENDED FOR PRODUCTION)
+      TELEGRAM_BOT_TOKEN: '8378781421:AAEEMC7AIFzpbcK6P_MM5E1d-weQ73J_Wr4'
+      TELEGRAM_CHAT_ID: '1051378557'
       
     steps:
       # ============================================
